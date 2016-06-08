@@ -13,4 +13,4 @@ Here is a timeline of the contributions we have made so far.
 ![Timeline](https://github.com/valeriearoth/scisparkWiki/blob/master/images/timeline.png)
 
 Here is a map of where people come from who are interested in SciSpark. If the dot representing them is blue, they are watching SciSpark and/or have starred it, and if their dot is red, they have only starred it. This is missing about 10 people, because their locations were not specified on GitHub.
-![Map]()
+![Map](https://github.com/valeriearoth/scisparkWiki/blob/master/images/usermap.png)
