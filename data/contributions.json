@@ -1,0 +1,120 @@
+{
+	"Spark": [
+		{
+			"IssueNumber": 6442,
+			"Name": "MLlib Local Linear Algebra Package",
+			"Who": "Burak Yavuz, Emrehan Tuzun, Rahul Palamuttam, Sean Owen, Joseph K. Bradley, Xiangrui Meng",
+			"DateIssued": "2015-3-21",
+			"Type": "New Feature",
+			"Status": "Open",
+			"LastDiscussionDate": "2015-7-16",
+			"ProvidedSolution": false
+		},
+		{
+			"IssueNumber": 13634,
+			"Name": "Assigning spark context to variable results in serialization error",
+			"Who": "Rahul Palamuttam, Sean Owen, Chris A. Mattmann, Kai Chen",
+			"DateIssued": "2016-3-3",
+			"Type": "Bug",
+			"Status": "Open",
+			"LastDiscussionDate": "2016-5-10",
+			"ProvidedSolution": false
+		},
+		{
+			"IssueNumber": 8923,
+			"Name": "Add @since tags to mllib.fpm",
+			"Who": "Rahul Palamuttam, Xiangrui Meng",
+			"DateIssued": "2015-7-8",
+			"Type": "Sub-task",
+			"Status": "Resolved",
+			"LastDiscussionDate": "2015-7-10",
+			"ProvidedSolution": true
+		}
+	],
+	"Zeppelin": [
+		{
+			"IssueNumber": 132,
+			"Name": "Prevent publishing zeppelin-web artifact to maven repository.",
+			"Who": "Lee moon soo, Sujen Shah, Chris A. Mattmann",
+			"DateIssued": "2015-6-24",
+			"Type": "New Feature",
+			"Status": "Resolved",
+			"LastDiscussionDate": "2016-3-1",
+			"ProvidedSolution": true
+		},
+		{
+			"IssueNumber": 712,
+			"Name": "Publish zeppelin-web war artifact to maven central",
+			"Who": "Sujen Shah, Chris A. Mattmann",
+			"DateIssued": "2016-3-1",
+			"Type": "Improvement",
+			"Status": "Resolved",
+			"LastDiscussionDate": "2016-3-8",
+			"ProvidedSolution": true
+		},
+		{
+			"IssueNumber": 714,
+			"Name": "Assigning spark context to variable results in task not serializeable error",
+			"Who": "Rahul Palamuttam, Lee moon soo",
+			"DateIssued": "2015-3-3",
+			"Type": "Bug",
+			"Status": "Open",
+			"LastDiscussionDate": "2016-3-3",
+			"ProvidedSolution": false
+		}
+	],
+	"NDFourJ": [
+		{
+			"IssueNumber": 181,
+			"Name": "Supporting the creation of linear data view rather than ndarray",
+			"Who": "Rahul Palamuttam",
+			"DateIssued": "2015-6-15",
+			"Type": "Other",
+			"Status": "Closed",
+			"LastDiscussionDate": "2015-6-28",
+			"ProvidedSolution": true
+		},
+		{
+			"IssueNumber": 207,
+			"Name": "Nd4j-x86 fail to build on ubuntu 14.04",
+			"Who": "Rahul Palamuttam",
+			"DateIssued": "2015-7-11",
+			"Type": "Mis-report",
+			"Status": "Closed",
+			"LastDiscussionDate": "2015-7-16",
+			"ProvidedSolution": true
+		},
+		{
+			"IssueNumber": 226,
+			"Name": "nd4j-x86 resulting in errors",
+			"Who": "Rahul Palamuttam",
+			"DateIssued": "2015-7-20",
+			"Type": "Bug",
+			"Status": "Closed",
+			"LastDiscussionDate": "2015-8-1",
+			"ProvidedSolution": true
+		},
+		{
+			"IssueNumber": 238,
+			"Name": "BooleanIndexing does not mask values that do not satisfy condition",
+			"Who": "Rahul Palamuttam",
+			"DateIssued": "2015-7-24",
+			"Type": "Bug",
+			"Status": "Resolved",
+			"LastDiscussionDate": "2015-7-25",
+			"ProvidedSolution": true
+		},
+		{
+			"IssueNumber": 274,
+			"Name": "Compilation Issue",
+			"Who": "Renato Marroquin Mogrovejo",
+			"DateIssued": "2015-8-5",
+			"Type": "Bug",
+			"Status": "Resolved",
+			"LastDiscussionDate": "2015-8-6",
+			"ProvidedSolution": false
+		}
+	],
+	"Mesos": [],
+	"Cassandra": []
+}
