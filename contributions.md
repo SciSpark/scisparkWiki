@@ -1,7 +1,7 @@
 Infrastructure Contributions
 ====
 
-In addition to providing SciSpark to users from all over the world for free, our work has also led us to contributing back to the open source software that we rely on.
+In addition to providing SciSpark to users from all over the world for free, our work has also led us to contributing back to the open source software that we rely on. This includes efforts that have improved the existing infrastructure for Apache Cassandra, ND4J, Apache Spark and Apache Zeppelin. People from our team who have contributed back to these projects include Rahul Palamuttam, Chris A. Mattmann, Sujen Shah and Renato Marroquin Mogrovejo. The entire team that makes SciSpark itself possible can be found [here](https://scispark.jpl.nasa.gov/theteam.html).
 
 Our infrastructure stack is as follows.
 ![Infrastructure Stack](https://github.com/valeriearoth/scisparkWiki/blob/master/images/infrastructurestack.png)
